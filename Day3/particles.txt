@@ -1,0 +1,25 @@
+type	depth	location	count
+Crystalline	04-11 meters	A	207
+Crystalline	04-11 meters	B	205
+Crystalline	11-14 meters	A	87
+Crystalline	11-14 meters	B	104
+Crystalline	18-20 meters	A	159
+Crystalline	18-20 meters	B	142
+Sediment_grains	04-11 meters	A	48
+Sediment_grains	04-11 meters	B	61
+Sediment_grains	11-14 meters	A	23
+Sediment_grains	11-14 meters	B	14
+Sediment_grains	18-20 meters	A	19
+Sediment_grains	18-20 meters	B	12
+Chalcedony_chert	04-11 meters	A	15
+Chalcedony_chert	04-11 meters	B	12
+Chalcedony_chert	11-14 meters	A	46
+Chalcedony_chert	11-14 meters	B	64
+Chalcedony_chert	18-20 meters	A	94
+Chalcedony_chert	18-20 meters	B	100
+Quartz_grains	04-11 meters	A	30
+Quartz_grains	04-11 meters	B	28
+Quartz_grains	11-14 meters	A	133
+Quartz_grains	11-14 meters	B	127
+Quartz_grains	18-20 meters	A	41
+Quartz_grains	18-20 meters	B	51

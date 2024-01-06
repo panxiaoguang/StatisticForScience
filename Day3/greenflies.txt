@@ -1,0 +1,9 @@
+system	week	leaf	number
+conventional	2 before	inner	2
+conventional	2 before	outer	5
+conventional	1 before	inner	39
+conventional	1 before	outer	29
+ecological	2 before	inner	22
+ecological	2 before	outer	32
+ecological	1 before	inner	46
+ecological	1 before	outer	38

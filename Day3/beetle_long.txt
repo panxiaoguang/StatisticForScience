@@ -1,0 +1,17 @@
+x	status	count
+1.6907	dead	6
+1.6907	alive	53
+1.7242	dead	13
+1.7242	alive	47
+1.7552	dead	18
+1.7552	alive	44
+1.7842	dead	28
+1.7842	alive	28
+1.8113	dead	52
+1.8113	alive	11
+1.8369	dead	53
+1.8369	alive	6
+1.861	dead	61
+1.861	alive	1
+1.8839	dead	60
+1.8839	alive	0

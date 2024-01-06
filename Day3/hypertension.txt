@@ -1,0 +1,9 @@
+snoring	obese	smoking	yes	no
+no	no	no	5	55
+no	no	yes	2	15
+no	yes	no	1	7
+no	yes	yes	0	2
+yes	no	no	35	152
+yes	no	yes	13	72
+yes	yes	no	15	36
+yes	yes	yes	8	15
